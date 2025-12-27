@@ -37,6 +37,10 @@ zealgains,
 --Category(Lurking / Zeal Inactivity)start--,
 --Category(Lurking / Zeal Inactivity)end--,
 
+
+--Category(racist)start--,
+--Category(racist)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
