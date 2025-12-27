@@ -3114,5 +3114,9 @@ ZosoDragon,
 test, <-- reason: test,
 Aubergin, <-- reason: Sweetie,
 z3rk f0rce, <-- reason: AKL,
+
+--Category(Krillin)start--,
+--Category(Krillin)end--,
+
 --Bot Limiter---,
 Skill Cape,
