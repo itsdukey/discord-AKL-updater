@@ -1,11 +1,13 @@
----for testing---,
+--Category(TESTING)start--
 zeal gains,
-=====--*Start spam chat*--=====,
+--Category(TESTING)end--
+--Category(Spamming chat)start--
 rezrange,
 rezzedps,
 maggibuu1,
 Mut3dmain, <--advertising spellbound cc,
-=====---*new names since reddit post update START*---====,
+--Category(spamming)end--
+--Category(new names since reddit post update START)start--
 Hairy gock, <---being afk multiple games in a row nearly finishing ava,
 uniq iii, <--- afking ava again. almost ended game 4 minutes early,
 edaroo, best cllisto, <---interrupting mid caps and camping mid after 42,000 warnings,
@@ -44,7 +46,7 @@ Drameinar, <---hopped in and out of cc in f2p world,
 Bad Altz, <---no response in f2p world,
 The Sorter, <---No Response in f2p world,
 again drigoo, Please Rod, pseudrodrigo, omg rodrigo, Rods Gimp, Sip Rodrigo ,why rodrigo, cmon rodrigo, DrigooJo, <---Ban from discord and games for trolling,
-====-----*new names since reddit post update END-------=========,
+--Category(new names since reddit post update)end--
 =====-------Removed from Zeal Gains Ban List---=====,
 A z a a n,
 Deliohhx,
