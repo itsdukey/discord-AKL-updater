@@ -33,6 +33,10 @@ zealgains,
 --Category(Begging for GP/Items)start--,
 --Category(Begging for GP/Items)end--,
 
+
+--Category(Lurking / Zeal Inactivity)start--,
+--Category(Lurking / Zeal Inactivity)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
