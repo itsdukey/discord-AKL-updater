@@ -3112,5 +3112,6 @@ XEvilanglexx,
 xskatalit3sx,
 Yellow Stag,
 ZosoDragon,
+zezima, <-- reason: stinky
 --Bot Limiter---,
 Skill Cape,
