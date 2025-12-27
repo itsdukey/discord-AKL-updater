@@ -49,6 +49,10 @@ zealgains,
 --Category(Attacking cc Members)start--,
 --Category(Attacking cc Members)end--,
 
+
+--Category(Trolling in FC ( submit screenshot))start--,
+--Category(Trolling in FC ( submit screenshot))end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
