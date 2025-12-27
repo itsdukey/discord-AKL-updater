@@ -7,8 +7,6 @@ zealgains,
 
 
 --Category(dismantle cc)start--,
-a testing, (Added: 2025-12-27), <-- reason: testing,
-testing, (Added: 2025-12-27), <-- reason: testing in reason,
 --Category(dismantle cc)end--,
 
 
