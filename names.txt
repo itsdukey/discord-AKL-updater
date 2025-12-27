@@ -3116,6 +3116,7 @@ Aubergin, <-- reason: Sweetie,
 z3rk f0rce, <-- reason: AKL,
 
 --Category(Krillin)start--,
+krillin (Added: 2025-12-27), <-- reason: test,
 --Category(Krillin)end--,
 
 --Bot Limiter---,
