@@ -57,6 +57,7 @@ zealgains,
 --Category(Removed from Banlist)end--,
 
 --Category(other)start--,
+zezima, (Added: 2025-12-27), <-- reason: testing purposes,
 --Category(other)end--,
 
 --Bot Limiter---,
