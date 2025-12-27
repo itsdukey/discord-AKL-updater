@@ -53,6 +53,10 @@ zealgains,
 --Category(Trolling in FC ( submit screenshot))start--,
 --Category(Trolling in FC ( submit screenshot))end--,
 
+
+--Category(Leagues Crashers)start--,
+--Category(Leagues Crashers)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
