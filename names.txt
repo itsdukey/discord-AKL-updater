@@ -3121,7 +3121,6 @@ krillin (Added: 2025-12-27), <-- reason: test,
 
 
 --Category(Other)start--,
-zezima, (Added: 2025-12-27), <-- reason: maxe,
 --Category(Other)end--,
 
 --Bot Limiter---,
