@@ -22,28 +22,24 @@ zealgains,
 --Category(Cold Tts CC)end--,
 
 
---Category(Removed from Banlist)start--,
---Category(Removed from Banlist)end--,
+--Category(Begging for GP/Items (submit screenshot))start--,
+--Category(Begging for GP/Items (submit screenshot))end--,
 
 
---Category(Begging for GP/Items)start--,
---Category(Begging for GP/Items)end--,
+--Category(Lurking / Zeal Inactivity (submit screenshot))start--,
+--Category(Lurking / Zeal Inactivity (submit screenshot))end--,
 
 
---Category(Lurking / Zeal Inactivity)start--,
---Category(Lurking / Zeal Inactivity)end--,
-
-
---Category(racist)start--,
---Category(racist)end--,
+--Category(racist (submit screenshot))start--,
+--Category(racist (submit screenshot))end--,
 
 
 --Category(Runewatch Flagged)start--,
 --Category(Runewatch Flagged)end--,
 
 
---Category(Attacking cc Members)start--,
---Category(Attacking cc Members)end--,
+--Category(Attacking cc Members (submit screenshot))start--,
+--Category(Attacking cc Members (submit screenshot))end--,
 
 
 --Category(Trolling in FC ( submit screenshot))start--,
@@ -56,6 +52,9 @@ zealgains,
 
 --Category(Leak Accounts)start--,
 --Category(Leak Accounts)end--,
+
+--Category(Removed from Banlist)start--,
+--Category(Removed from Banlist)end--,
 
 --Category(other)start--,
 --Category(other)end--,
