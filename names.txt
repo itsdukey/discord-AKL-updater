@@ -1,4 +1,5 @@
 --Category(test start)start--,
+zealgains,
 --Category(test start)end--,
 
 --Category(Mudhut)start--,
@@ -7,4 +8,5 @@
 --Bot Limiter---,
 
 --Category(test end)start--,
+skill cape,
 --Category(test end)end--,
