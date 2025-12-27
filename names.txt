@@ -29,6 +29,10 @@ zealgains,
 --Category(Removed from Banlist)start--,
 --Category(Removed from Banlist)end--,
 
+
+--Category(Begging for GP/Items)start--,
+--Category(Begging for GP/Items)end--,
+
 --Bot Limiter---,
 
 --Category(test end)start--,
