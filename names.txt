@@ -59,7 +59,6 @@ testing, (Added: 2025-12-27), <-- reason: testing in reason,
 --Category(Removed from Banlist)end--,
 
 --Category(other)start--,
-zezima, (Added: 2025-12-27), <-- reason: noob,
 --Category(other)end--,
 
 --Bot Limiter---,
