@@ -869,7 +869,6 @@ Shorsey1,
 TheLadofLard,
 Thendril
 100stabwound,
-69FD,
 B00ty Bump,
 Berkinator,
 Biiixx,
