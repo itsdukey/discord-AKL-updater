@@ -3008,7 +3008,6 @@ Zootatoo,
 Zopel,
 zottefrix,
 Zracer10,
-zrk3, <--Attacking cc members, flaming,
 --Category(Removed from Banlist)end--,
 
 --Clan SpaceGoats--,
