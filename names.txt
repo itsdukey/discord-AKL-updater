@@ -1742,7 +1742,6 @@ lolliy, ---possibly xueen or girthy alt,
 --Category(Leak Accounts)end--,
 
 --Category(Removed from Banlist)start--,
--Bern seacat, <--crashing,
 0 121,
 0 L I M P O,
 07 osrs,
