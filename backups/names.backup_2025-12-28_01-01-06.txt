@@ -1,0 +1,68 @@
+--Category(test start)start--,
+zealgains,
+--Category(test start)end--,
+
+--Category(Mudhut)start--,
+--Category(Mudhut)end--,
+
+
+--Category(dismantle cc)start--,
+--Category(dismantle cc)end--,
+
+
+--Category(SW AND CHILL / Thee Misfits)start--,
+--Category(SW AND CHILL / Thee Misfits)end--,
+
+
+--Category(NBK Rat)start--,
+--Category(NBK Rat)end--,
+
+
+--Category(Cold Tts CC)start--,
+--Category(Cold Tts CC)end--,
+
+
+--Category(Begging for GP/Items (submit screenshot))start--,
+--Category(Begging for GP/Items (submit screenshot))end--,
+
+
+--Category(Lurking / Zeal Inactivity (submit screenshot))start--,
+--Category(Lurking / Zeal Inactivity (submit screenshot))end--,
+
+
+--Category(racist (submit screenshot))start--,
+--Category(racist (submit screenshot))end--,
+
+
+--Category(Runewatch Flagged)start--,
+--Category(Runewatch Flagged)end--,
+
+
+--Category(Attacking cc Members (submit screenshot))start--,
+--Category(Attacking cc Members (submit screenshot))end--,
+
+
+--Category(Trolling in FC ( submit screenshot))start--,
+--Category(Trolling in FC ( submit screenshot))end--,
+
+
+--Category(Leagues Crashers)start--,
+--Category(Leagues Crashers)end--,
+
+
+--Category(Leak Accounts)start--,
+--Category(Leak Accounts)end--,
+
+--Category(Removed from Banlist)start--,
+--Category(Removed from Banlist)end--,
+
+--Category(other)start--,
+n0valyfe, (Added: 2025-12-28), <-- reason: testing,
+zezima, (Added: 2025-12-27), <-- reason: testing purposes,
+--Category(other)end--,
+
+--Bot Limiter---,
+
+--Category(test end)start--,
+skill cape,
+--Category(test end)end--,
