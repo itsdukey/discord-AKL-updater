@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-17T02:38:19.679718",
-  "total_entries": 6390,
+  "exported_at": "2026-06-17T02:47:29.764451",
+  "total_entries": 6391,
   "entries": [
     {
       "id": 2,
@@ -28820,9 +28820,9 @@
           "filename": "player1_20260617_023544.png"
         }
       ],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-17 02:42:27",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 6390,
@@ -28850,6 +28850,21 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
+      "removed_at": "2026-06-17 02:42:36",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
+    },
+    {
+      "id": 6391,
+      "username": "player20",
+      "category": "Other",
+      "date_added": "2026-06-17",
+      "timestamp_added": "2026-06-17 02:44:15",
+      "added_by": "209956201377562624",
+      "reason": "testing re-adding after removing 5 players",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
@@ -28865,9 +28880,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-17 02:42:44",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 6384,
@@ -28880,9 +28895,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-17 02:42:57",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 6385,
@@ -28895,9 +28910,9 @@
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
-      "removed_at": null,
-      "removed_by": null,
-      "status": "ACTIVE"
+      "removed_at": "2026-06-17 02:43:09",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 6386,
