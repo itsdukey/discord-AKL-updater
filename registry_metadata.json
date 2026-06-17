@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-17T00:46:58.882519",
-  "total_entries": 6376,
+  "exported_at": "2026-06-17T01:29:45.884950",
+  "total_entries": 6377,
   "entries": [
     {
       "id": 2,
@@ -28300,6 +28300,21 @@
       "timestamp_added": "2026-06-17 00:26:08",
       "added_by": "209956201377562624",
       "reason": "testing akledit",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": null,
+      "removed_by": null,
+      "status": "ACTIVE"
+    },
+    {
+      "id": 6377,
+      "username": "iron test13",
+      "category": "Other",
+      "date_added": "2026-06-17",
+      "timestamp_added": "2026-06-17 01:24:16",
+      "added_by": "209956201377562624",
+      "reason": "testing finalized code",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
