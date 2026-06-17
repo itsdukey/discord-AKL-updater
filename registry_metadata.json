@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-17T01:29:45.884950",
-  "total_entries": 6377,
+  "exported_at": "2026-06-17T02:16:28.197094",
+  "total_entries": 6378,
   "entries": [
     {
       "id": 2,
@@ -28315,6 +28315,21 @@
       "timestamp_added": "2026-06-17 01:24:16",
       "added_by": "209956201377562624",
       "reason": "testing finalized code",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-06-17 02:11:56",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
+    },
+    {
+      "id": 6378,
+      "username": "iron test14",
+      "category": "Other",
+      "date_added": "2026-06-17",
+      "timestamp_added": "2026-06-17 02:11:24",
+      "added_by": "209956201377562624",
+      "reason": "testing after vscode edits",
       "is_dupe": false,
       "alt_of": null,
       "evidence": [],
