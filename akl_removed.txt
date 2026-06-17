@@ -166,3 +166,4 @@ player1, (Added: 2026-06-17), <-- reason: mass sql test [Proof: evidence/player1
 player2, (Added: 2026-06-17), <-- reason: mass sql test, (Rm: 2026-06-17)
 player3, (Added: 2026-06-17), <-- reason: mass sql test, (Rm: 2026-06-17)
 player4, (Added: 2026-06-17), <-- reason: mass sql test, (Rm: 2026-06-17)
+player5, (Added: 2026-06-17), <-- reason: mass sql test, (Rm: 2026-06-17)
