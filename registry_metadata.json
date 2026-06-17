@@ -1,6 +1,6 @@
 {
-  "exported_at": "2026-06-17T02:16:28.197094",
-  "total_entries": 6378,
+  "exported_at": "2026-06-17T02:31:45.994224",
+  "total_entries": 6379,
   "entries": [
     {
       "id": 2,
@@ -89176,6 +89176,21 @@
       "removed_at": null,
       "removed_by": null,
       "status": "ACTIVE"
+    },
+    {
+      "id": 6379,
+      "username": "testuser2",
+      "category": "other",
+      "date_added": "2026-06-17",
+      "timestamp_added": "2026-06-17 02:26:43",
+      "added_by": "209956201377562624",
+      "reason": "testing sql edit",
+      "is_dupe": false,
+      "alt_of": null,
+      "evidence": [],
+      "removed_at": "2026-06-17 02:31:00",
+      "removed_by": "209956201377562624",
+      "status": "REMOVED"
     },
     {
       "id": 2930,
