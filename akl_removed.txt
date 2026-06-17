@@ -162,3 +162,4 @@ sqltest123, (Added: 2026-06-16), <-- reason: Testing github sync with sqldb, (Rm
 iron_test_1, (Added: 2026-06-16), <-- reason: testing edit function, (Rm: 2026-06-16)
 iron test13, (Added: 2026-06-17), <-- reason: testing finalized code, (Rm: 2026-06-17)
 testuser2, (Added: 2026-06-17), <-- reason: testing sql edit, (Rm: 2026-06-17)
+player1, (Added: 2026-06-17), <-- reason: mass sql test [Proof: evidence/player1/player1_20260617_023544.png], (Rm: 2026-06-17)
